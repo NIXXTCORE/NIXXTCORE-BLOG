@@ -23,14 +23,22 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "夏夜",
-		imgurl:
-			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
-		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
-		siteurl: "https://blog.cuteleaf.cn",
-		tags: ["Blog"],
+		title: "Mon3tr",
+		imgurl:"https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c000-ce_oYQ9TnqAD4UzfnQIDEIIbJFBOAACRwf6EaAA7c~c5_300x300.jpeg?from=2956013662",
+		desc: "咕咕嘎嘎 ~",
+		siteurl: "https://v.douyin.com/1-HnqF5RCRQ/",
+		tags: ["抖音"],
 		weight: 10, // 权重，数字越大排序越靠前
-		enabled: false, // 是否启用
+		enabled: true, // 是否启用
+	},
+	{
+		title: "无H❷O酚酞",
+		imgurl:"https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_oABRtAAyyDAL9PYHCPfhgNztA4Ae1tAIE4tXC6~c5_300x300.jpeg?from=2956013662",
+		desc: "化学实验党， 在上学，周末更",
+		siteurl: "https://v.douyin.com/iY6YiHhB53w/",
+		tags: ["抖音"],
+		weight: 9, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
 	},
 ];
 

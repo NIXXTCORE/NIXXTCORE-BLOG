@@ -55,7 +55,7 @@ export const zh_CN: Translation = {
 		"您还未在配置文件中启用评论系统，启用后访客才可在此留言",
 	[Key.friends]: "友链",
 	[Key.friendsDescription]: "这里是我的朋友们，欢迎互相访问交流",
-	[Key.searchFriends]: "搜索友链...",
+	[Key.searchFriends]: "搜索共创者...",
 	[Key.friendsEmpty]: "暂无共创作者",
 	[Key.guestbook]: "留言",
 	[Key.guestbookDescription]: "欢迎提出有关化学、音乐的想法或对本网站的建议，或者仅仅是打个招呼！😌",

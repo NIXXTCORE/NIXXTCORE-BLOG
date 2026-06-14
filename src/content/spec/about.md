@@ -1,29 +1,52 @@
-# 关于我 / About Me
+# 关于我
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **NIXXTCØRE** ，一个以化学科普为主的抖音知识型博主 😚  
+朱包混的圈子：二次元，化学，猎奇，编曲，编程，画画... (/≧▽≦)/（科普视频只做原创!）
 
-## 🛠️ 关于本站
+## ⚗️ 关于本站的无机化学内容
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+该系列在抖音已整理为合集，点击
+**[无机化学（旧集）](https://v.douyin.com/Ca_qC0Q5p1M/)**
+可以直接观看  
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+  
+**注：由于无机化学的危险性相对偏大，也容易被平台和谐，所以该合集更新速度会很慢，请大家谅解**
 
+## 🧪 关于本站的有机化学内容
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+该系列在抖音已整理为合集，点击
+**[有机化学（新集）](https://v.douyin.com/qwel3FD-bqU/)**
+可以直接观看
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+  
+*此系列正常更新*
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+## 📻 关于本站的音乐电台
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+可以在QQ音乐里收听我的作品，点击
+**[NIXXTCØRE的电台](https://y.qq.com/n/ryqq_v2/singer/003pDQzi1DPF4l)**
+可以直接收听
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+除了网易云音乐，在其它平台也能收听我的作品  
+**标记了"Experiment"的专辑为实验性专辑，不会刻意以好听为目的进行创作，仅仅是作为前卫风格的尝试**
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+## 🗃️ 关于本站提供的开源项目
 
+本人在后续参与的项目开发中会将项目开源，点击
+**[NIXXTCØRE的仓库](https://github.com/NIXXTCORE)**
+可以查看已开源的项目
+
+*近三年暂时不会有任何的重要开源项目，目前仅仅是提交该网站的更新*
+
+---
+
+## 🚀 关于本站的开发
+
+本网站基于Astro和GitHub上开源的Firefly项目进行二次开发，详细内容请参见网站最底部的链接
+
+---
+
+> © Эфемерный Зронос 2026 —— 𝗪𝗶𝗻𝗱𝗼𝘄𝘀𝗢𝗢--  
+> © Эфемерный Зронос 2026 —— 𝗪𝗶𝗻𝗱𝗼𝘄𝘀𝗢𝗢--

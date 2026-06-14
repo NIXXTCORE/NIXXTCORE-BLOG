@@ -49,7 +49,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Gallery,
 
 			// 番组计划
-			LinkPresets.Bangumi,
+			//LinkPresets.Bangumi,
 		],
 	});
 
@@ -68,38 +68,20 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	// 自定义导航栏链接
-	links.push({
-		name: "链接",
-		url: "#",
-		icon: "material-symbols:link",
-		// 子菜单
-		children: [
-			{
-				name: "GitHub",
-				url: "https://github.com/CuteLeaf/Firefly",
-				external: true,
-				icon: "fa7-brands:github",
-			},
-			{
-				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
-				external: true,
-				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
-				external: true,
-				icon: "fa7-brands:qq",
-			},
-			{
-				name: "Firefly文档",
-				url: "https://docs-firefly.cuteleaf.cn",
-				external: true,
-				icon: "material-symbols:docs",
-			},
-		],
-	});
+	//links.push({
+	//	name: "链接",
+	//	url: "#",
+	//	icon: "material-symbols:link",
+	//	// 子菜单
+	//	children: [
+	//		{
+	//			name: "GitHub",
+	//			url: "https://github.com/NIXXTCORE",
+	//			external: true,
+	//			icon: "fa7-brands:github",
+	//		},
+	//	],
+	//});
 
 	// 文档链接
 	// links.push({
@@ -143,12 +125,12 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:tag-rounded",
 	},
 	Friends: {
-		name: "友链",
+		name: "共创",
 		url: "/friends/",
 		icon: "material-symbols:group",
 	},
 	Sponsor: {
-		name: "赞助",
+		name: "支持",
 		url: "/sponsor/",
 		icon: "material-symbols:favorite",
 	},
@@ -158,17 +140,12 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:chat",
 	},
 	About: {
-		name: "关于我",
+		name: "关于",
 		url: "/about/",
 		icon: "material-symbols:person",
 	},
-	Bangumi: {
-		name: "番组计划",
-		url: "/bangumi/",
-		icon: "material-symbols:movie",
-	},
 	Gallery: {
-		name: "相册",
+		name: "动态",
 		url: "/gallery/",
 		icon: "material-symbols:photo-library",
 	},
